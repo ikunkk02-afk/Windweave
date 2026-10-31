@@ -1,0 +1,482 @@
+[
+  {
+    "name": "body/foot_2_2",
+    "to": [
+      5,
+      1,
+      5
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "name": "body/foot_2_11",
+    "to": [
+      5,
+      1,
+      14
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      2,
+      0,
+      11
+    ]
+  },
+  {
+    "name": "body/foot_11_2",
+    "to": [
+      14,
+      1,
+      5
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      11,
+      0,
+      2
+    ]
+  },
+  {
+    "name": "body/foot_11_11",
+    "to": [
+      14,
+      1,
+      14
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      11,
+      0,
+      11
+    ]
+  },
+  {
+    "name": "body/base",
+    "to": [
+      15,
+      2.25,
+      15
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "body/cabinet",
+    "to": [
+      14.5,
+      11.5,
+      14.5
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      1.5,
+      2.25,
+      2
+    ]
+  },
+  {
+    "name": "body/top_lip",
+    "to": [
+      15,
+      12.1,
+      15
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      1,
+      11.5,
+      1.5
+    ]
+  },
+  {
+    "name": "body/screen_bezel",
+    "to": [
+      10.6,
+      10.7,
+      2
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      2.5,
+      6,
+      1.5
+    ]
+  },
+  {
+    "name": "body/screen",
+    "to": [
+      10.1,
+      10.2,
+      1.5
+    ],
+    "material": "screen",
+    "group": "body",
+    "from": [
+      3,
+      6.5,
+      1.35
+    ]
+  },
+  {
+    "name": "body/dial",
+    "to": [
+      13.5,
+      9.75,
+      2
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      11.25,
+      7.5,
+      1.25
+    ]
+  },
+  {
+    "name": "body/dial_tick",
+    "to": [
+      12.6,
+      9.5,
+      1.25
+    ],
+    "material": "ivory",
+    "group": "body",
+    "from": [
+      12.15,
+      8.7,
+      1.1
+    ]
+  },
+  {
+    "name": "body/button_frame_0",
+    "to": [
+      5.0,
+      5,
+      2
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      3.0,
+      3.4,
+      1.5
+    ]
+  },
+  {
+    "name": "body/button_0",
+    "to": [
+      4.7,
+      4.7,
+      1.5
+    ],
+    "material": "cyan",
+    "group": "body",
+    "from": [
+      3.3,
+      3.7,
+      1.2
+    ]
+  },
+  {
+    "name": "body/button_frame_1",
+    "to": [
+      8.5,
+      5,
+      2
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      6.5,
+      3.4,
+      1.5
+    ]
+  },
+  {
+    "name": "body/button_1",
+    "to": [
+      8.2,
+      4.7,
+      1.5
+    ],
+    "material": "ivory",
+    "group": "body",
+    "from": [
+      6.8,
+      3.7,
+      1.2
+    ]
+  },
+  {
+    "name": "body/button_frame_2",
+    "to": [
+      12.0,
+      5,
+      2
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      10.0,
+      3.4,
+      1.5
+    ]
+  },
+  {
+    "name": "body/button_2",
+    "to": [
+      11.7,
+      4.7,
+      1.5
+    ],
+    "material": "red",
+    "group": "body",
+    "from": [
+      10.3,
+      3.7,
+      1.2
+    ]
+  },
+  {
+    "name": "body/cooling_rib_0",
+    "to": [
+      12,
+      12.65,
+      5.6
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      12.1,
+      5.0
+    ]
+  },
+  {
+    "name": "body/cooling_rib_1",
+    "to": [
+      12,
+      12.65,
+      7.05
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      12.1,
+      6.45
+    ]
+  },
+  {
+    "name": "body/cooling_rib_2",
+    "to": [
+      12,
+      12.65,
+      8.5
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      12.1,
+      7.9
+    ]
+  },
+  {
+    "name": "body/cooling_rib_3",
+    "to": [
+      12,
+      12.65,
+      9.95
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      12.1,
+      9.35
+    ]
+  },
+  {
+    "name": "body/cooling_rib_4",
+    "to": [
+      12,
+      12.65,
+      11.399999999999999
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      12.1,
+      10.8
+    ]
+  },
+  {
+    "name": "body/handle_post_front_1",
+    "to": [
+      2,
+      5.5,
+      6
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      1,
+      4.5,
+      5
+    ]
+  },
+  {
+    "name": "body/handle_post_back_1",
+    "to": [
+      2,
+      5.5,
+      11
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      1,
+      4.5,
+      10
+    ]
+  },
+  {
+    "name": "body/handle_1",
+    "to": [
+      2,
+      6.2,
+      11
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      1,
+      5.5,
+      5
+    ]
+  },
+  {
+    "name": "body/handle_post_front_14",
+    "to": [
+      15,
+      5.5,
+      6
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      14,
+      4.5,
+      5
+    ]
+  },
+  {
+    "name": "body/handle_post_back_14",
+    "to": [
+      15,
+      5.5,
+      11
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      14,
+      4.5,
+      10
+    ]
+  },
+  {
+    "name": "body/handle_14",
+    "to": [
+      15,
+      6.2,
+      11
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      14,
+      5.5,
+      5
+    ]
+  },
+  {
+    "name": "body/back_vent_0",
+    "to": [
+      12,
+      4.55,
+      14.7
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      4.0,
+      14.5
+    ]
+  },
+  {
+    "name": "body/back_vent_1",
+    "to": [
+      12,
+      5.85,
+      14.7
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      5.3,
+      14.5
+    ]
+  },
+  {
+    "name": "body/back_vent_2",
+    "to": [
+      12,
+      7.15,
+      14.7
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      6.6,
+      14.5
+    ]
+  },
+  {
+    "name": "body/back_vent_3",
+    "to": [
+      12,
+      8.45,
+      14.7
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      4,
+      7.9,
+      14.5
+    ]
+  }
+]

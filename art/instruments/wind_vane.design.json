@@ -1,0 +1,347 @@
+[
+  {
+    "name": "body/rubber_foot",
+    "to": [
+      13,
+      0.75,
+      13
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "name": "body/cast_base",
+    "to": [
+      13,
+      2.25,
+      13
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      3,
+      0.75,
+      3
+    ]
+  },
+  {
+    "name": "body/brass_base_inset",
+    "to": [
+      12,
+      2.75,
+      12
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      4,
+      2.25,
+      4
+    ]
+  },
+  {
+    "name": "body/neck",
+    "to": [
+      10,
+      4,
+      10
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      6,
+      2.75,
+      6
+    ]
+  },
+  {
+    "name": "body/mast",
+    "to": [
+      8.75,
+      12.75,
+      8.75
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      7.25,
+      4,
+      7.25
+    ]
+  },
+  {
+    "name": "body/mast_collar",
+    "to": [
+      9.25,
+      6,
+      9.25
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      6.75,
+      5,
+      6.75
+    ]
+  },
+  {
+    "name": "body/bearing",
+    "to": [
+      9.25,
+      13.1,
+      9.25
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      6.75,
+      12,
+      6.75
+    ]
+  },
+  {
+    "name": "body/bolt_4_4",
+    "to": [
+      5,
+      3.1,
+      5
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      4,
+      2.75,
+      4
+    ]
+  },
+  {
+    "name": "body/bolt_4_11",
+    "to": [
+      5,
+      3.1,
+      12
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      4,
+      2.75,
+      11
+    ]
+  },
+  {
+    "name": "body/bolt_11_4",
+    "to": [
+      12,
+      3.1,
+      5
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      11,
+      2.75,
+      4
+    ]
+  },
+  {
+    "name": "body/bolt_11_11",
+    "to": [
+      12,
+      3.1,
+      12
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      11,
+      2.75,
+      11
+    ]
+  },
+  {
+    "name": "body/compass_ns",
+    "to": [
+      8.3,
+      7.5,
+      12.75
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      7.7,
+      7,
+      3.25
+    ]
+  },
+  {
+    "name": "body/compass_ew",
+    "to": [
+      12.75,
+      7.5,
+      8.3
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      3.25,
+      7,
+      7.7
+    ]
+  },
+  {
+    "name": "body/north_marker",
+    "to": [
+      8.7,
+      8.1,
+      4.25
+    ],
+    "material": "red",
+    "group": "body",
+    "from": [
+      7.3,
+      7.5,
+      3.25
+    ]
+  },
+  {
+    "name": "head/hub",
+    "to": [
+      9,
+      14.7,
+      9
+    ],
+    "material": "copper",
+    "group": "head",
+    "from": [
+      7,
+      13.15,
+      7
+    ]
+  },
+  {
+    "name": "head/shaft",
+    "to": [
+      8.35,
+      14.4,
+      14.25
+    ],
+    "material": "steel",
+    "group": "head",
+    "from": [
+      7.65,
+      13.8,
+      1.25
+    ]
+  },
+  {
+    "name": "head/arrow_step_0",
+    "to": [
+      8.5,
+      14.55,
+      1.7
+    ],
+    "material": "copper",
+    "group": "head",
+    "from": [
+      7.5,
+      13.65,
+      1.0
+    ]
+  },
+  {
+    "name": "head/arrow_step_1",
+    "to": [
+      9.0,
+      14.55,
+      2.4
+    ],
+    "material": "copper",
+    "group": "head",
+    "from": [
+      7.0,
+      13.65,
+      1.7
+    ]
+  },
+  {
+    "name": "head/arrow_step_2",
+    "to": [
+      9.5,
+      14.55,
+      3.0999999999999996
+    ],
+    "material": "copper",
+    "group": "head",
+    "from": [
+      6.5,
+      13.65,
+      2.4
+    ]
+  },
+  {
+    "name": "head/arrow_step_3",
+    "to": [
+      10.0,
+      14.55,
+      3.8
+    ],
+    "material": "copper",
+    "group": "head",
+    "from": [
+      6.0,
+      13.65,
+      3.0999999999999996
+    ]
+  },
+  {
+    "name": "head/tail_root",
+    "to": [
+      8.4,
+      15,
+      12
+    ],
+    "material": "copper",
+    "group": "head",
+    "from": [
+      7.6,
+      13.2,
+      11
+    ]
+  },
+  {
+    "name": "head/tail_fin",
+    "to": [
+      8.45,
+      15.7,
+      14.5
+    ],
+    "material": "red",
+    "group": "head",
+    "from": [
+      7.55,
+      12.6,
+      12
+    ]
+  },
+  {
+    "name": "head/tail_stripe",
+    "to": [
+      8.55,
+      14.35,
+      14.4
+    ],
+    "material": "ivory",
+    "group": "head",
+    "from": [
+      7.45,
+      13.9,
+      13
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.shouyun.windweave.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractArrowAccessor",
+    "ServerFlightAccessor",
+    "FireBlockMixin",
+    "CampfireBlockEntityMixin"
+  ],
+  "client": [
+    "client.CampfireSmokeParticleMixin",
+    "client.SmokeParticleMixin",
+    "client.DebrisParticleMixin",
+    "client.FlameParticleMixin",
+    "client.ModelBlockRendererMixin",
+    "client.LiquidBlockRendererMixin",
+    "client.GameRendererMixin",
+    "client.LevelRendererMixin",
+    "client.ParticleEngineMixin",
+    "client.IrisCommonUniformsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

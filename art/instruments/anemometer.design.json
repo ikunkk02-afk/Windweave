@@ -1,0 +1,557 @@
+[
+  {
+    "name": "body/rubber_foot",
+    "to": [
+      13,
+      0.75,
+      13
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "name": "body/cast_base",
+    "to": [
+      13,
+      2.25,
+      13
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      3,
+      0.75,
+      3
+    ]
+  },
+  {
+    "name": "body/brass_base_inset",
+    "to": [
+      12,
+      2.75,
+      12
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      4,
+      2.25,
+      4
+    ]
+  },
+  {
+    "name": "body/neck",
+    "to": [
+      10,
+      4,
+      10
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      6,
+      2.75,
+      6
+    ]
+  },
+  {
+    "name": "body/mast",
+    "to": [
+      8.75,
+      12.75,
+      8.75
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      7.25,
+      4,
+      7.25
+    ]
+  },
+  {
+    "name": "body/mast_collar",
+    "to": [
+      9.25,
+      6,
+      9.25
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      6.75,
+      5,
+      6.75
+    ]
+  },
+  {
+    "name": "body/bearing",
+    "to": [
+      9.25,
+      13.1,
+      9.25
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      6.75,
+      12,
+      6.75
+    ]
+  },
+  {
+    "name": "body/bolt_4_4",
+    "to": [
+      5,
+      3.1,
+      5
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      4,
+      2.75,
+      4
+    ]
+  },
+  {
+    "name": "body/bolt_4_11",
+    "to": [
+      5,
+      3.1,
+      12
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      4,
+      2.75,
+      11
+    ]
+  },
+  {
+    "name": "body/bolt_11_4",
+    "to": [
+      12,
+      3.1,
+      5
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      11,
+      2.75,
+      4
+    ]
+  },
+  {
+    "name": "body/bolt_11_11",
+    "to": [
+      12,
+      3.1,
+      12
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      11,
+      2.75,
+      11
+    ]
+  },
+  {
+    "name": "rotor/hub",
+    "to": [
+      9,
+      14.6,
+      9
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      7,
+      13.15,
+      7
+    ]
+  },
+  {
+    "name": "rotor/cap",
+    "to": [
+      8.5,
+      15,
+      8.5
+    ],
+    "material": "steel",
+    "group": "rotor",
+    "from": [
+      7.5,
+      14.6,
+      7.5
+    ]
+  },
+  {
+    "name": "rotor/arm0",
+    "to": [
+      13,
+      14.15,
+      8.35
+    ],
+    "material": "steel",
+    "group": "rotor",
+    "from": [
+      8.5,
+      13.6,
+      7.65
+    ]
+  },
+  {
+    "name": "rotor/cup_floor0",
+    "to": [
+      15,
+      13.55,
+      9.5
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      11.75,
+      13,
+      6.5
+    ]
+  },
+  {
+    "name": "rotor/cup_back0",
+    "to": [
+      15,
+      15.5,
+      7.05
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      11.75,
+      13.55,
+      6.5
+    ]
+  },
+  {
+    "name": "rotor/cup_inner0",
+    "to": [
+      14.45,
+      13.7,
+      9.5
+    ],
+    "material": "rubber",
+    "group": "rotor",
+    "from": [
+      12.3,
+      13.55,
+      7.05
+    ]
+  },
+  {
+    "name": "rotor/cup_left0",
+    "to": [
+      12.3,
+      15.2,
+      9.5
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      11.75,
+      13.55,
+      7.05
+    ]
+  },
+  {
+    "name": "rotor/cup_right0",
+    "to": [
+      15,
+      15.2,
+      9.5
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      14.45,
+      13.55,
+      7.05
+    ]
+  },
+  {
+    "name": "rotor/arm1",
+    "to": [
+      8.35,
+      14.15,
+      13
+    ],
+    "material": "steel",
+    "group": "rotor",
+    "from": [
+      7.65,
+      13.6,
+      8.5
+    ]
+  },
+  {
+    "name": "rotor/cup_floor1",
+    "to": [
+      9.5,
+      13.55,
+      15
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      6.5,
+      13,
+      11.75
+    ]
+  },
+  {
+    "name": "rotor/cup_back1",
+    "to": [
+      9.5,
+      15.5,
+      15
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      8.95,
+      13.55,
+      11.75
+    ]
+  },
+  {
+    "name": "rotor/cup_inner1",
+    "to": [
+      8.95,
+      13.7,
+      14.45
+    ],
+    "material": "rubber",
+    "group": "rotor",
+    "from": [
+      6.5,
+      13.55,
+      12.3
+    ]
+  },
+  {
+    "name": "rotor/cup_left1",
+    "to": [
+      8.95,
+      15.2,
+      12.3
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      6.5,
+      13.55,
+      11.75
+    ]
+  },
+  {
+    "name": "rotor/cup_right1",
+    "to": [
+      8.95,
+      15.2,
+      15
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      6.5,
+      13.55,
+      14.45
+    ]
+  },
+  {
+    "name": "rotor/arm2",
+    "to": [
+      7.5,
+      14.15,
+      8.35
+    ],
+    "material": "steel",
+    "group": "rotor",
+    "from": [
+      3,
+      13.6,
+      7.65
+    ]
+  },
+  {
+    "name": "rotor/cup_floor2",
+    "to": [
+      4.25,
+      13.55,
+      9.5
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      1,
+      13,
+      6.5
+    ]
+  },
+  {
+    "name": "rotor/cup_back2",
+    "to": [
+      4.25,
+      15.5,
+      9.5
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      1,
+      13.55,
+      8.95
+    ]
+  },
+  {
+    "name": "rotor/cup_inner2",
+    "to": [
+      3.6999999999999993,
+      13.7,
+      8.95
+    ],
+    "material": "rubber",
+    "group": "rotor",
+    "from": [
+      1.5500000000000007,
+      13.55,
+      6.5
+    ]
+  },
+  {
+    "name": "rotor/cup_left2",
+    "to": [
+      4.25,
+      15.2,
+      8.95
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      3.6999999999999993,
+      13.55,
+      6.5
+    ]
+  },
+  {
+    "name": "rotor/cup_right2",
+    "to": [
+      1.5500000000000007,
+      15.2,
+      8.95
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      1,
+      13.55,
+      6.5
+    ]
+  },
+  {
+    "name": "rotor/arm3",
+    "to": [
+      8.35,
+      14.15,
+      7.5
+    ],
+    "material": "steel",
+    "group": "rotor",
+    "from": [
+      7.65,
+      13.6,
+      3
+    ]
+  },
+  {
+    "name": "rotor/cup_floor3",
+    "to": [
+      9.5,
+      13.55,
+      4.25
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      6.5,
+      13,
+      1
+    ]
+  },
+  {
+    "name": "rotor/cup_back3",
+    "to": [
+      7.050000000000001,
+      15.5,
+      4.25
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      6.5,
+      13.55,
+      1
+    ]
+  },
+  {
+    "name": "rotor/cup_inner3",
+    "to": [
+      9.5,
+      13.7,
+      3.6999999999999993
+    ],
+    "material": "rubber",
+    "group": "rotor",
+    "from": [
+      7.050000000000001,
+      13.55,
+      1.5500000000000007
+    ]
+  },
+  {
+    "name": "rotor/cup_left3",
+    "to": [
+      9.5,
+      15.2,
+      4.25
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      7.050000000000001,
+      13.55,
+      3.6999999999999993
+    ]
+  },
+  {
+    "name": "rotor/cup_right3",
+    "to": [
+      9.5,
+      15.2,
+      1.5500000000000007
+    ],
+    "material": "copper",
+    "group": "rotor",
+    "from": [
+      7.050000000000001,
+      13.55,
+      1
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "wind_loop": {"subtitle":"subtitles.windweave.wind", "sounds":[{"name":"windweave:wind_loop", "stream":false}]},
+  "sandstorm_loop": {"subtitle":"subtitles.windweave.sandstorm", "sounds":[{"name":"windweave:sandstorm_loop", "stream":false}]}
+}

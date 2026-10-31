@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "windweave:anemometer",
+    "windweave:wind_vane",
+    "windweave:wind_controller"
+  ]
+}

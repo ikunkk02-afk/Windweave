@@ -1,0 +1,353 @@
+[
+  {
+    "name": "body/grip",
+    "to": [
+      10.5,
+      8.8,
+      9.5
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      5.5,
+      1,
+      6.5
+    ]
+  },
+  {
+    "name": "body/grip_bottom",
+    "to": [
+      10.5,
+      1.5,
+      9.5
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      5.5,
+      0.5,
+      6.5
+    ]
+  },
+  {
+    "name": "body/left_trim",
+    "to": [
+      5.5,
+      8,
+      9.6
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      5,
+      2,
+      6.4
+    ]
+  },
+  {
+    "name": "body/right_trim",
+    "to": [
+      11,
+      8,
+      9.6
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      10.5,
+      2,
+      6.4
+    ]
+  },
+  {
+    "name": "body/dial_bezel",
+    "to": [
+      10,
+      8.3,
+      6.5
+    ],
+    "material": "rubber",
+    "group": "body",
+    "from": [
+      6,
+      4.8,
+      6.1
+    ]
+  },
+  {
+    "name": "body/analog_dial",
+    "to": [
+      9.65,
+      8,
+      6.1
+    ],
+    "material": "dial",
+    "group": "body",
+    "from": [
+      6.35,
+      5.1,
+      5.95
+    ]
+  },
+  {
+    "name": "body/button",
+    "to": [
+      8.9,
+      3.8,
+      6.5
+    ],
+    "material": "cyan",
+    "group": "body",
+    "from": [
+      7.1,
+      2.4,
+      6
+    ]
+  },
+  {
+    "name": "body/sensor_neck",
+    "to": [
+      9,
+      10,
+      9
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      7,
+      8.8,
+      7
+    ]
+  },
+  {
+    "name": "body/guard_0",
+    "to": [
+      9.15,
+      15.4,
+      9.1
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      6.85,
+      14.6,
+      6.9
+    ]
+  },
+  {
+    "name": "body/guard_1",
+    "to": [
+      10.988477631085024,
+      14.638477631085024,
+      9.1
+    ],
+    "material": "copper",
+    "group": "body",
+    "rotation": {
+      "axis": "z",
+      "angle": -45,
+      "origin": [
+        9.838477631085023,
+        14.238477631085024,
+        8
+      ]
+    },
+    "from": [
+      8.688477631085023,
+      13.838477631085023,
+      6.9
+    ]
+  },
+  {
+    "name": "body/guard_2",
+    "to": [
+      11.0,
+      13.55,
+      9.1
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      10.2,
+      11.25,
+      6.9
+    ]
+  },
+  {
+    "name": "body/guard_3",
+    "to": [
+      10.988477631085024,
+      10.961522368914977,
+      9.1
+    ],
+    "material": "copper",
+    "group": "body",
+    "rotation": {
+      "axis": "z",
+      "angle": 45,
+      "origin": [
+        9.838477631085023,
+        10.561522368914977,
+        8
+      ]
+    },
+    "from": [
+      8.688477631085023,
+      10.161522368914977,
+      6.9
+    ]
+  },
+  {
+    "name": "body/guard_4",
+    "to": [
+      9.15,
+      10.200000000000001,
+      9.1
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      6.85,
+      9.4,
+      6.9
+    ]
+  },
+  {
+    "name": "body/guard_5",
+    "to": [
+      7.311522368914977,
+      10.961522368914977,
+      9.1
+    ],
+    "material": "copper",
+    "group": "body",
+    "rotation": {
+      "axis": "z",
+      "angle": -45,
+      "origin": [
+        6.1615223689149765,
+        10.561522368914977,
+        8
+      ]
+    },
+    "from": [
+      5.011522368914976,
+      10.161522368914977,
+      6.9
+    ]
+  },
+  {
+    "name": "body/guard_6",
+    "to": [
+      5.800000000000001,
+      13.55,
+      9.1
+    ],
+    "material": "copper",
+    "group": "body",
+    "from": [
+      5.0,
+      11.25,
+      6.9
+    ]
+  },
+  {
+    "name": "body/guard_7",
+    "to": [
+      7.311522368914977,
+      14.638477631085024,
+      9.1
+    ],
+    "material": "copper",
+    "group": "body",
+    "rotation": {
+      "axis": "z",
+      "angle": 45,
+      "origin": [
+        6.1615223689149765,
+        14.238477631085024,
+        8
+      ]
+    },
+    "from": [
+      5.011522368914976,
+      13.838477631085023,
+      6.9
+    ]
+  },
+  {
+    "name": "body/fan_hub",
+    "to": [
+      8.55,
+      12.95,
+      8.45
+    ],
+    "material": "steel",
+    "group": "body",
+    "from": [
+      7.45,
+      11.85,
+      7.55
+    ]
+  },
+  {
+    "name": "body/fan_blade_0",
+    "to": [
+      8.3,
+      14.1,
+      8.35
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      7.7,
+      12.9,
+      7.65
+    ]
+  },
+  {
+    "name": "body/fan_blade_1",
+    "to": [
+      8.3,
+      11.9,
+      8.35
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      7.7,
+      10.7,
+      7.65
+    ]
+  },
+  {
+    "name": "body/fan_blade_2",
+    "to": [
+      7.5,
+      12.7,
+      8.35
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      6.3,
+      12.1,
+      7.65
+    ]
+  },
+  {
+    "name": "body/fan_blade_3",
+    "to": [
+      9.7,
+      12.7,
+      8.35
+    ],
+    "material": "housing",
+    "group": "body",
+    "from": [
+      8.5,
+      12.1,
+      7.65
+    ]
+  }
+]
